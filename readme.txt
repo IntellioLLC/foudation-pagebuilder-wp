@@ -1,6 +1,6 @@
-=== Aqua Page Builder ===
+=== Intellio Foundation 5 Page Builder ===
 Author URI: http://aquagraphite.com
-Plugin URI: http://aquagraphite.com/2012/10/aqua-page-builder/
+Plugin URI: http://aquagraphite.com/2012/10/intellio-page-builder/
 Contributors: syamilmj
 Tags: page builder, aquagraphite, syamil mj
 Requires at least: 3.3
@@ -14,9 +14,9 @@ Powerful Drag & Drop Page Builder with UI that feels like home with WordPress.
 
 == Description ==
 
-Aqua Page Builder is a powerful WordPress plugin that allows you to create an unlimited number of template variations for use in your WordPress themes. It follows the same user interface used by the Menus & Widgets admin pages - making you feel right at home with the UI.
+Intellio Foundation 5 Page Builder is a powerful WordPress plugin that allows you to create an unlimited number of template variations for use in your WordPress themes. It follows the same user interface used by the Menus & Widgets admin pages - making you feel right at home with the UI.
 
-Similar to the Widgets & Menus, Aqua Page Builder features the drag and drop interaction to build its templates.
+Similar to the Widgets & Menus, Intellio Foundation 5 Page Builder features the drag and drop interaction to build its templates.
 
 Features of the plugin include:
 
@@ -28,24 +28,24 @@ Features of the plugin include:
 * Developer friendly with dozens of actions and filters
 
 **Looking for themes that support this plugin? [Themeforest themes](http://themeforest.net/browse/tags/default/aqua%20page%20builder?ref=SyamilMJ)**
-**Developer? Follow this plugin on [GitHub](https://github.com/sy4mil/Aqua-Page-Builder)**
+**Developer? Follow this plugin on [GitHub](https://github.com/sy4mil/Intellio-page-builder)**
 
-More information at [Aquagraphite.com](http://aquagraphite.com/2012/10/aqua-page-builder/).
+More information at [Aquagraphite.com](http://aquagraphite.com/2012/10/intellio-page-builder/).
 
 == Installation ==
 
 1. Activate the plugin
 2. Go to Appearance > Page Builder and create new templates
-3. For detailed instructions please refer to the complete [Documentation](http://aquagraphite.com/api/documentation/aqua-page-builder) page.
+3. For detailed instructions please refer to the complete [Documentation](http://aquagraphite.com/api/documentation/intellio-page-builder) page.
 
 == Frequently Asked Questions ==
 
 = Why do I see only 6 blocks? =
-These are default blocks provided with this plugin. Please see the list of [supported themes](https://github.com/syamilmj/Aqua-Page-Builder/wiki/Supported-Themes) that includes more blocks, or learn how to create your own from our [Wiki](https://github.com/sy4mil/Aqua-Page-Builder/wiki).
+These are default blocks provided with this plugin. Please see the list of [supported themes](https://github.com/syamilmj/Intellio-page-builder/wiki/Supported-Themes) that includes more blocks, or learn how to create your own from our [Wiki](https://github.com/sy4mil/Intellio-page-builder/wiki).
 
 = How do I Add My Own Custom Blocks? =
 
-Please see our [Wiki](https://github.com/sy4mil/Aqua-Page-Builder/wiki) section on how to develop your own custom blocks.
+Please see our [Wiki](https://github.com/sy4mil/Intellio-page-builder/wiki) section on how to develop your own custom blocks.
 
 == Screenshots ==
 
@@ -83,7 +83,7 @@ Please see our [Wiki](https://github.com/sy4mil/Aqua-Page-Builder/wiki) section 
 = 1.1.0: April =
 
 * First offical release!
-* For complete list of changelog from previous versions, please see the [Changelog](http://aquagraphite.com/api/changelog/aqua-page-builder) Page
+* For complete list of changelog from previous versions, please see the [Changelog](http://aquagraphite.com/api/changelog/intellio-page-builder) Page
 
 == Upgrade Notice ==
 

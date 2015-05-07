@@ -1,7 +1,7 @@
 <?php
 /** بسم الله الرحمن الرحيم **
  * 
- * Plugin Name: Aqua Page Builder
+ * Plugin Name: Intellio Foundation 5 Page Builder
  * Plugin URI: http://aquagraphite.com/page-builder
  * Description: Fast, lightweight and intuitive drag-and-drop page builder.
  * Version: 1.1.4
